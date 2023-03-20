@@ -1,8 +1,8 @@
-"# mlproject" 
+# mlproject
 
 # create a new repository on the command line
-echo "# mlproject" >> README.md
 ```
+echo "# mlproject" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
@@ -26,4 +26,4 @@ conda create -p venv python==3.9.13 -y
 # Activate the environment
 ```
 conda activate venv/
-```"# mlproject" 
+```
