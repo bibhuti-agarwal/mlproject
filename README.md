@@ -17,3 +17,13 @@ git remote add origin https://github.com/bibhuti-agarwal/mlproject.git
 git branch -M main
 git push -u origin main
 ```
+
+# Create Conda Project
+```
+conda create -p venv python==3.9.13 -y
+```
+
+# Activate the environment
+```
+conda activate venv/
+```"# mlproject" 
