@@ -15,3 +15,7 @@ git pull
 ```
 pip install -r requires.txt
 ```
+
+# Points
+## Data Injestion - reading data from dtabase or source
+## two type of pipeline 1. Training 2. Prediction
